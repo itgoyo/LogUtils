@@ -17,7 +17,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-	        compile 'com.github.itgoyo:LogToFile:v1.0'
+	        compile 'com.github.itgoyo:LogUtils:v1.0'
 	}
 ```
 
